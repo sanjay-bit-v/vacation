@@ -14,17 +14,4 @@ Once the survey has been submitted, a Bootstrap Modal will apear with the result
 
 ## Deployed Site
 Use this link to see the deployed site: 
-https://vacationfinder.herokuapp.com/
-
-## Built With
-- Bootstrap
-- Font Awesome
-- Google Fonts
-- JavaScript
-- Node.js
-- NPM packages
-   * Express.js
-   * Path
-
-## Authors
-Jennifer Powell 
+https://vacationfinder.herokuapp.com/  
